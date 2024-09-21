@@ -1,3 +1,9 @@
+//Rafael Teixeira Arroyo 768092
+//João Marcos Castelli 833251
+//Rogério Luis Brigantini Junior 834831
+
+
+
 #include <xc.h>
 
 #define LED1 LATBbits.LATB1 // LED em B1
